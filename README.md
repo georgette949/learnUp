@@ -1,11 +1,7 @@
 # learnUp
 
 
-
 ![LearnUp](https://user-images.githubusercontent.com/117080768/224729398-d4b77eb7-445f-4177-b22c-4122a0e3f648.png)
-
-
-
 
 
 Hola soy Georgette quiero compartir contigo  mi proyecto individual una aplicación llamada LearnUp. 
@@ -17,9 +13,6 @@ Además, con LearnUp, puedo establecer fechas límite para las tareas y cursos, 
 planificar mi tiempo de manera efectiva y asegurarme de cumplir con los plazos.
 En resumen, LearnUp es una aplicación diseñada para ayudarme a mantenerme organizada y enfocada en mi formación en el bootcamp.
 Con esta herramienta, espero poder maximizar mi tiempo y esfuerzo para lograr mis objetivos educativos.
-
-Requerimientos:
-
 
 
 Funcionalidad de la aplicación:
@@ -33,15 +26,39 @@ Ver solo las tareas o cursos completados o pendientes
 Buscar tareas o cursos por título o descripción
 
 
-Historia de Usuarios
-1-Como usuario de LearnUp, quiero poder agregar nuevas tareas y cursos a mi lista para poder tener un registro completo de lo que estoy 
-estudiando y las fechas de vencimiento asociadas.
+Requerimientos:
+XAMPP/LAMPP Installed
+NPM Installed
+MySQL
+PHP
 
-2-Como usuario de LearnUp, quiero poder ver todas mis tareas y cursos en una vista de calendario para poder planificar mi tiempo de manera 
-efectiva y asegurarme de que estoy cumpliendo con todos los plazos.
 
-3-Como usuario de LearnUp, quiero poder borrar una tarea o curso existente para poder eliminar registros innecesarios de mi lista.
-4-Como usuario de LearnUp, quiero poder ver la fecha de creación de una tarea o curso para poder entender mejor mi progreso y establecer metas 
-realistas para el futuro.
-5-
+Stacks:
+PHP
+MySql
+Tailwind
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
